@@ -1,0 +1,54 @@
+{
+    "strangeProducts": [
+        {
+            "name": "Cat Butt Tissue Holder",
+            "price": 39.95,
+            "details": [
+                "HUMOROUS TISSUE HOLDER - You are certain to get loads of laughs and visitors to your powder room or office will love to grab a tissue from this quirky cat.",
+                "FITS SQUARE TISSUE BOXES - Measures 12.5\" long x 9.25\" wide, fits standard square tissue boxes.",
+                "QUALITY MATERIALS - Each Cat Butt tissue holder is made of molded resin that's easy to clean and designed to last. Hand wash is warm soapy water when needed."
+            ],
+            "image": "catbutt_tissue.jpg"
+        },
+
+        {
+            "name": "Life-Size Cutout of Danny DeVito",
+            "price": 74.97,
+            "details": [
+                "Enchances events - brings humour, and creates opportunities for photo-opportunities.",
+                "Makes for a great collection - along with the other life-size cutouts.",
+                "Made from original photos by top agencies - you won't find anything similar to this!",
+                "Printed using nothing but the best materials and printing methods."
+            ],
+            "image": "danny-devito.jpg"
+        },
+
+        {
+            "name": "Bacon Scented Mustache",
+            "price": 5.00,
+            "details": [
+                "Like some weird, macho mad scientist, we took the two most masculine things we could think of (mustaches and bacon) and mixed them into one super product. This carded 4\" (10.2 cm) wide mustache with adhesive backing is made of lifelike synthetic hair and smells like bacon. The perfect thing to wear while woodworking, fishing or internalizing your emotions."
+            ],
+            "image": "baconstache.jpg"
+        },
+
+        {
+            "name": "Baby Mop",
+            "price": 29.99,
+            "details": [
+                "Babies were never meant to be a trouble. Enjoy watching them clean your house.",
+                "Witness the moment when a person becomes useful the first time in its life."
+            ],
+            "image": "baby-mop.jpg"
+        },
+
+        {
+            "name": "Airzooka Air Blaster",
+            "price": 21.99,
+            "details": [
+                "HOW IT WORKS: AirZooka is the \"fun blaster\" that blows a harmless ball of air up to 20 feet! Just point and shoot a ball of air and have a blast! This is the perfect indoor fun for family game night."
+            ],
+            "image": "airgun.jpg"
+        }
+    ]
+}
