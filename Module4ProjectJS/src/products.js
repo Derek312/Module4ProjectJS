@@ -37,7 +37,7 @@ load('https://derek312.github.io/Module4ProjectJS/Module4ProjectJS/src/products.
         p.textContent = "Price: $" + products[i].price;
         console.log("4");
         //create list elements using the json file details list
-        for(let h = 0; j < products[i].details.length; h++) {
+        for(let h = 0; h < products[i].details.length; h++) {
             let list = document.createElement('li');
             list.textContent = products[i].details[h];
             ul.appendChild(list);
