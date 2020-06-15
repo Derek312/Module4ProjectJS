@@ -17,7 +17,7 @@ function load(url, type) {
 }
 
 // Use json file to make a html page
-load('https://derek312.github.io/Module4ProjectJS/products.json', 'json').then(function(jsonObj) {
+load('https://derek312.github.io/Module4ProjectJS/Module4ProjectJS/src/products.json', 'json').then(function(jsonObj) {
     let products = jsonObj.strangeProducts;
     console.log("2");
     for(let i = 0; i < products.length; i++) {
@@ -31,7 +31,7 @@ load('https://derek312.github.io/Module4ProjectJS/products.json', 'json').then(f
         //fill h2 text with the name from json file
         h2.textContent = products[i].name;
         //set image using the image names from the json and the github pages link
-        img.setAttribute('src', 'https://derek312.github.io/Module4ProjectJS/images/' + products[i].image);
+        img.setAttribute('src', 'https://derek312.github.io/Module4ProjectJS/Module4ProjectJS/src/images/' + products[i].image);
         img.setAttribute('alt', products[i].image);
         //set to price from the json
         p.textContent = "Price: $" + products[i].price;
